@@ -1,0 +1,46 @@
+body
+{
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 
+{
+   color: white; 
+   font-family: 'Langar', cursive;
+   font-size: 100px;
+}
+
+.login_div
+{
+	background: white;
+    padding: 20px;
+    z-index: 30;
+	float: none;
+}
+
+h3
+{
+    color: black;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+}
+
+.text_inputs
+{
+    padding: 5px;
+    border: none;
+    border-bottom: solid black 1px;
+}
+
+.button
+{
+    font-family: 'Mukta', sans-serif;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    font-size: 20px;
+}
