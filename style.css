@@ -5,7 +5,7 @@ body
     background-size: cover;
 }
 
-h1 
+h1
 {
    color: white; 
    font-family: 'Langar', cursive;
@@ -43,4 +43,69 @@ h3
     display: inline-block;
     width: 30%;
     font-size: 20px;
+}
+
+h4
+{
+    color:white;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.player_scores
+{
+    margin: 30px;
+    background: white;
+    padding: 20px;
+    z-index: 30;
+    float: left;
+    border: ridge;
+}
+
+h2
+{
+   color: white; 
+   font-family: 'Langar', cursive;
+   font-size: 70px;
+}
+
+.qna
+{
+    margin: 10px;
+    background: white;
+    padding: 20px;
+    z-index: 30;
+    float: none;
+    width: fit-content;
+    height: fit-content;
+    border: double;
+    border-color: crimson;
+}
+
+.numbers_enter
+{
+    margin: 10px;
+    background: white;
+    padding: 20px;
+    z-index: 30;
+    float: none;
+    width: fit-content;
+    height: fit-content;
+    border: ridge;
+}
+
+label 
+{
+    color: black;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold; 
+}
+
+#player1_name, #player2_name
+{
+    color: black;
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
 }
