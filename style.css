@@ -63,6 +63,7 @@ h4
     z-index: 30;
     float: left;
     border: ridge;
+    width: 150px;
 }
 
 #math_quiz_heading
@@ -92,8 +93,6 @@ h4
     padding: 20px;
     z-index: 30;
     float: none;
-    width: fit-content;
-    height: fit-content;
     border: ridge;
 }
 

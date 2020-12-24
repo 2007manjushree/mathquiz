@@ -65,4 +65,6 @@ function check() {
 
     document.getElementById("output").innerHTML = "";
     document.getElementById("output").style.visibility = "hidden";
+    document.getElementById("no1").value = "";
+    document.getElementById("no2").value = "";
 }
